@@ -1,9 +1,5 @@
 # COMP0178 — Distributed Databases: Revision Notes
- 
-These notes supplement your lecture slides with content from Connolly & Begg, Chapters 22, 24, and 25. Organised to match your lecture structure.
- 
----
- 
+  
 ## 1. What are Distributed Databases
  
 ### 1.1 Definitions
