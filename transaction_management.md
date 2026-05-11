@@ -1,4 +1,4 @@
-# Transaction Management — Study Guide
+# Transaction Management
 
 ## 1. Why Transactions Matter
 
